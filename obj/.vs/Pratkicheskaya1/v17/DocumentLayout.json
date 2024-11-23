@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\ziphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:ziphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\xmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:xmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|c:\\users\\vecheslav-pc\\source\\repos\\pratkicheskaya1\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\drive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:drive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4D944-82DD-4897-8FCC-05E4CCBBB03E}|Pratkicheskaya1.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\JsonHandler.cs",
+              "RelativeDocumentMoniker": "JsonHandler.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\JsonHandler.cs",
+              "RelativeToolTip": "JsonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:19:01.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drive.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Drive.cs",
+              "RelativeDocumentMoniker": "Drive.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Drive.cs",
+              "RelativeToolTip": "Drive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:29:13.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XmlHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\XmlHandler.cs",
+              "RelativeDocumentMoniker": "XmlHandler.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\XmlHandler.cs",
+              "RelativeToolTip": "XmlHandler.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:26:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAhwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:22:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZipHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\ZipHandler.cs",
+              "RelativeDocumentMoniker": "ZipHandler.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\ZipHandler.cs",
+              "RelativeToolTip": "ZipHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:08:30.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:02:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Path.cs",
+              "RelativeDocumentMoniker": "Path.cs",
+              "ToolTip": "C:\\Users\\Vecheslav-PC\\source\\repos\\Pratkicheskaya1\\Path.cs",
+              "RelativeToolTip": "Path.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:48:46.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
